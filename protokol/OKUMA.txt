@@ -1,0 +1,6 @@
+ek-c.b64 bir tutanak dışı nottur.
+Açmak için: python3 tutanak.py --gizli
+
+İçinde parti adı yoktur. Slogan yoktur. Sandık yoktur.
+Sadece her iki sıranın da aynı yorgunluğu paylaştığına dair kısa bir şerh vardır.
+Gizli kalsın diye base64 yapıldı. Gizlilik burada bir mizah biçimidir.
